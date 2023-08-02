@@ -1,1 +1,1 @@
-My first readme
+my folder readme for 0x03-git
